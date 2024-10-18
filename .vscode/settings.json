@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/src/new_form/new_form/linux"
+    "cmake.sourceDirectory": "C:/src/new_form/new_form/windows/flutter",
+    "dotnet.defaultSolution": "build/windows/runner/runner.sln"
 }
